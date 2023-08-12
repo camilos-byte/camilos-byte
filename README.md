@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @El_Inge
-- - 👀 I'm interested in learning python, react, vue js, laravel,
-- 🌱 I am currently learning, javascript, laravel, php
+- - 👀 I'm interested in learning  react, vue js, laravel,
+- 🌱 I am currently learning, javascript, laravel, php, html, css, boostrap, sql, MySql
 - 💞️ I am looking to collaborate on projects in php or javascript to continue acquiring more knowledge
 - 📫 How to reach me ...
 
